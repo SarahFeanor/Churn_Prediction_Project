@@ -26,7 +26,7 @@ A aplicação da previsão de churn possibilita que as empresas identifiquem os 
 
 Os dados utilizados neste projeto foram originalmente disponibilizados na plataforma educacional da [IBM Developer](https://developer.ibm.com/technologies/data-science/patterns/predict-customer-churn-using-watson-studio-and-jupyter-notebooks/#). Esses dados representam um cenário típico em uma empresa de telecomunicações. O conjunto de dados completo está acessível [aqui](https://raw.githubusercontent.com/carlosfab/dsnp2/master/datasets/WA_Fn-UseC_-Telco-Customer-Churn.csv).
 
-## CONCLUSÃO
+## **Conclusão**
 
 Com base nas análises realizadas, podemos concluir que a escolha do modelo de classificação, o pré-processamento dos dados e a técnica de balanceamento de classes são fundamentais para obter um bom desempenho na resolução do problema de Churn.
 
