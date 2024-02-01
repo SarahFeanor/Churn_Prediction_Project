@@ -4,7 +4,7 @@
 
 # **Projeto** - **Previsão de Rotatividade de Clientes (Churn Prediction)** 
 
-[PROJETO (COLAB)]()
+[PROJETO (COLAB)](https://github.com/SarahFeanor/Churn_Prediction_Project/blob/main/Churn_Prediction.ipynb)
 
 Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
