@@ -2,7 +2,7 @@
 
 <sub> 📂 Projeto - Data Science - Sarah F. Rezende
 
-# **Projeto** - **Previsão de Rotatividade de Clientes (Churn Prediction)** 
+## **Projeto** - **Previsão de Rotatividade de Clientes (Churn Prediction)** 
 
 [PROJETO (COLAB)](https://github.com/SarahFeanor/Churn_Prediction_Project/blob/main/Churn_Prediction.ipynb)
 
